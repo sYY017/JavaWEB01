@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JavaWEB01:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaWEB01_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JavaWEB01/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JavaWEB01" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:2.6.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.11" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.5" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.58" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
